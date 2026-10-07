@@ -14,11 +14,5 @@ Contains academic and R&D projects focusing on data manipulation, machine learni
 * **Focus:** Data Engineering, Machine Learning classification, and Data Visualization.
 * **Key Skills Demonstrated:** Python's scientific ecosystem (Pandas, Numpy, Scikit-learn), modular prototyping, and analytical reporting.
 
-## 🛠️ Technical Stack Highlights
-* **Programming Languages:** Python, C/C++, Java.
-* **Software Quality & DevOps:** End-to-end Automated Testing, Performance/Stress Testing, Git, Jira, Xray.
-* **Data & AI Ecosystem:** Pandas, Numpy, Keras, TensorFlow, Jupyter, DataScientest Certification.
-* **Methodologies:** Agile (Scrum/Kanban), R&D Prototyping, Modular Software Architecture.
-
 ---
-**Contact:** [marouan.maghzaoui@gmail.com](mailto:marouan.maghzaoui@gmail.com) | Metz, France
+**Contact:** [marouan.maghzaoui@gmail.com](mailto:marouan.maghzaoui@gmail.com) 
