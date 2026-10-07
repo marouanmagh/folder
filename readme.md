@@ -1,8 +1,4 @@
-# Marouan MAGHZAOUI – Software & QA Engineering Portfolio
 
-Welcome to my personal code repository. I am a **Senior Software & Test Automation Engineer** with over 6 years of experience designing robust software architectures, developing Python-based automation frameworks, and coordinating technical projects in R&D and innovation-driven environments.
-
-*Note: Due to strict Non-Disclosure Agreements (NDAs) with my current and previous employers (SFR, Renault, Sibilianthe, Nokia Bell Labs), the source code for my enterprise-level automation frameworks, API testing suites, and hardware architectures cannot be shared publicly. This repository serves to demonstrate my personal coding practices, software architecture skills, and data engineering capabilities.*
 
 ## 📂 Repository Structure
 
